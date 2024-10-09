@@ -1,0 +1,9 @@
+com\sbibanking\testCases\TC_LoginDDT_002.class
+com\sbibanking\pageObjects\LoginPage.class
+com\sbibanking\testCases\TC_AddCustomerTest_003.class
+com\sbibanking\utilities\Reporting.class
+com\sbibanking\pageObjects\AddCustomerPage.class
+com\sbibanking\testCases\TC_LoginTest_001.class
+com\sbibanking\testCases\BaseClass.class
+com\sbibanking\utilities\ReadConfig.class
+com\sbibanking\utilities\XLUtils.class

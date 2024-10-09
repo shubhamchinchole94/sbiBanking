@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<suite name="SBI_Banking_project">
+
+	<listeners>
+
+		<listener class-name="com.sbibanking.utilities.Reporting"></listener>
+
+	</listeners>
+
+
+	<test name="SBI Banking Test">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.sbibanking.testCases.TC_LoginTest_001" />
+		<!-- 	<class name="com.sbibanking.testCases.TC_LoginDDT_002" /> -->
+			<class name="com.sbibanking.testCases.TC_AddCustomerTest_003" />
+
+
+
+		</classes>
+	</test>
+</suite> 

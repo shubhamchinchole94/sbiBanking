@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <viewOrder>test</viewOrder> <!-- Order of tests displayed in the report -->
+    <theme>dark</theme> <!-- Choose between 'dark' or 'standard' theme -->
+    <encoding>UTF-8</encoding> <!-- Report encoding -->
+    <protocol>https</protocol> <!-- Protocol for links -->
+    
+    <documentTitle>SBIBank Test Report</documentTitle> <!-- Title of the HTML report -->
+    <reportName>SBIBank Functional Test Automation Report</reportName> <!-- Name displayed on the report -->
+    
+    <chartVisibilityOnOpen>true</chartVisibilityOnOpen> <!-- Show charts on report open -->
+    
+    <!-- Other customizable options can be added as needed -->
+</configuration>
